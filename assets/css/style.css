@@ -60,7 +60,7 @@ p {
     background-position: center;
 }
 
-/* Class selector to adjust image location*/
+/* Class selector to adjust imaage location within the sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,7 +71,7 @@ p {
     margin-left: 25px;
 }
 
-/* Content class makes boxes for the main articles */
+/* Content class makes boxes for the main Sections */
 .content {
     width: 75%;
     display: inline-block;
