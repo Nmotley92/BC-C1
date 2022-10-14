@@ -6,9 +6,6 @@
 
 A small project done after my first week of coding bootcamp to simulate working on a real world ticket.  Focused on making html code semantic and also consolidating selectors in the CSS style sheet.  It helped me learn how to take code from a develope file and make it more semantic and efficient.
 
-
-
-
 ## Installation
 
 N/a
@@ -16,7 +13,7 @@ N/a
     
 ## Usage/Examples
 
-A test site so new developers can learn semantic html.
+A test site so new developers can learn how to make someone elses code semantic. 
 
 
 ## Screenshots
@@ -30,5 +27,5 @@ A test site so new developers can learn semantic html.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Please refer to license in the repo
 
