@@ -17,7 +17,7 @@ A test site so new developers can learn how to make someone elses code semantic.
 
 
 ## Screenshots
-![Screenshot](./Develop/assets/images/screenshot.png)
+![Screenshot](/assets/images/screenshot.png)
 
 
 ## Acknowledgements
